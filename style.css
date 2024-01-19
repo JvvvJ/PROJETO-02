@@ -1,0 +1,75 @@
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color:#3f3d56;
+    font-weight: 400;
+    font-size: 32px;
+    text-align:center
+
+  
+
+}
+
+h1 span {
+    font-family: 'Dosis', sans-serif;
+    font-weight:bold;
+    color: #ee24ff
+}
+
+#N1 {
+    width:350px;
+    height:238px;
+margin:64px auto 29px;
+    text-align:center
+    
+}
+
+#N3 {
+    font-family: 'Open Sans', sans-serif;
+   color: #828282; 
+   font-weight:500;
+    font-size:15px;
+    text-align:center;
+}
+
+#N3 span {
+    color:#3f3d56;
+    font-weight:bold;
+    text-align:center
+}
+
+#N4 {
+    font-family: 'Open Sans', sans-serif;
+    color:#828282;
+    font-weight:500;
+    font-size: 15px;
+    text-align:center
+   
+
+}
+
+#N4 span {
+color:#3f3d56;
+font-weight:bold
+}
+
+#N5 {
+    font-family: 'Open Sans', sans-serif;
+    color:#828282;
+    font-weight:500;
+    font-size:15px;
+    text-align:center
+}
+
+#footer {
+    font-family: 'Open Sans', sans-serif;
+    color:#3f3d56;
+    font-weight:bold;
+    font-size:  15px;
+    text-align:center
+}
+
+#baixofooter {
+width: 1024px;
+height: 176px;
+margin: auto auto 0px;
+}
